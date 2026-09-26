@@ -60,8 +60,8 @@ ford-gobike-data-analysis/
   * [Part I: Exploratory Data Analysis Notebook](notebooks/01_exploratory_analysis.ipynb)
   * [Part II: Explanatory Data Analysis Notebook](notebooks/02_explanatory_analysis.ipynb)
 * **Rendered HTML Reports:**
-  * [Part I: Exploratory HTML Report](https://htmlpreview.github.io/?https://github.com/alankrit98/ford-gobike-data-analysis/blob/main/reports/Part_I_exploration_template.html)
-  * [Part II: Explanatory HTML Report](https://htmlpreview.github.io/?https://github.com/alankrit98/ford-gobike-data-analysis/blob/main/reports/Part_II_exploration_template.html)
+  * [Part I: Exploratory HTML Report](https://alankrit98.github.io/ford-gobike-data-analysis/reports/Part_I_exploration_template.html)
+  * [Part II: Explanatory HTML Report](https://alakrit98.github.io/ford-gobike-data-analysis/reports/Part_II_exploration_template.html)
 
 ---
 
